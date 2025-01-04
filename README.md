@@ -10,15 +10,25 @@ In addition to front-end development, I focus on SEO optimization, leveraging co
 
 ## Skills:
 🚀 **WordPress Specialist:** Expert in WordPress Development by Elementor page builder, creating modern and SEO-friendly websites.
+
 💻 **Front-End Developer:** Skilled in HTML, CSS, JavaScript, and frameworks like React.js and Bootstrap, with a focus on responsive designs.
+
 🖼️ **Portfolio Designer:** Proficient in creating modern, visually stunning portfolio websites tailored to showcase individual or business achievements.
+
 🖥️ **Blog Web Designer:** Ensures blog websites are fully responsive, providing an optimal experience on desktops, tablets, and mobile devices.
+
 🛒 **E-Commerce Developer:** Proficient in building e-commerce websites using WordPress and React.js, delivering tailored solutions for clients.
+
 🔧 **React Enthusiast:** Advancing my knowledge of React hooks like useState, useEffect, and useRef while building dynamic, interactive web apps.
+
 🌐 **SEO Knowledge:** Experienced in optimizing websites for search engines, enhancing their visibility and ranking.
+
 🌟 **GitHub & Collaboration:** Learning Git and GitHub for effective version control and team collaboration.
+
 🤖 **AI & Prompt Engineering:** Aspiring to leverage AI tools and advanced prompts for innovative solutions in web development.
+
 🎓 **Research Enthusiast:** Interested in conducting research on governmental activities and local development.
+
 ✨ **Future Goals:** Aiming to be Full stack web developer.
 
 
