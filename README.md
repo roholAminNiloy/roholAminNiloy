@@ -8,7 +8,7 @@ In addition to front-end development, I focus on SEO optimization, leveraging co
 
 
 
-## Skills:
+## All of My Skills:
 🚀 **WordPress Specialist:** Expert in WordPress Development by Elementor page builder, creating modern and SEO-friendly websites.
 
 💻 **Front-End Developer:** Skilled in HTML, CSS, JavaScript, and frameworks like React.js and Bootstrap, with a focus on responsive designs.
