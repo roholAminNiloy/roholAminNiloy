@@ -1,4 +1,4 @@
-![A Front-End Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGqJhUk7WRqRQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735977710006?e=1741219200&v=beta&t=S-p4pVtCEDBejK51FNg5XXmaZA-pn4m80PCN4ZfqLLE)
+![A Front-End Web Developer](https://www.linkedin.com/in/rohol-amin-niloy-52319b329/overlay/background-image/)
 ### Hi there 👋, I'm Rohol Amin Niloy
 #### A Front-End Web Developer
 
